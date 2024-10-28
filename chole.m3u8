@@ -1,8 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXTINF:-1,Chole TV (Principal)
+#EXTVLCOPT:network-caching=1000
+https://glb.bozztv.com/glb/ssh101/choletvcr/index.m3u8
 
-#EXTINF:-1, Canal 1
-http://c24u.xyz:8080/choletv44/juan1234/333811.m3u8
-
-#EXTINF:-1, Canal 2
-http://c24u.xyz:8080/choletv44/juan1234/332910.m3u8
+#EXTINF:-1,Chole TV (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c24u.xyz:8080/choletv44/juan1234/361047.m3u8
