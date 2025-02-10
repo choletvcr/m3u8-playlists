@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Chole TV (Principal)
-#EXTVLCOPT:network-caching=1000
-https://glb.bozztv.com/glb/ssh101/choletvcr/index.m3u8
-
-#EXTINF:-1,Chole TV (Backup)
-#EXTVLCOPT:network-caching=1000
-http://c24u.xyz:8080/choletv44/juan1234/361047.m3u8
+#EXTINF:-1,Chole TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/choletv/playlist.m3u8
+#EXTINF:-1,Vida al Máximo
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vidaalmaximo/playlist.m3u8
